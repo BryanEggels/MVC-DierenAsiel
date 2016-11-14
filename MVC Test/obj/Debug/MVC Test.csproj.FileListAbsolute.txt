@@ -1,0 +1,91 @@
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\ApplicationInsights.config
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\csc.exe
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\System.Collections.Immutable.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\vbc.exe
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\VBCSCompiler.exe
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\roslyn\VBCSCompiler.exe.config
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\MVC Test.dll.config
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\MVC Test.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\MVC Test.pdb
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.Web.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.WindowsServer.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.ApplicationInsights.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.Web.Infrastructure.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Helpers.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Mvc.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Razor.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Webpages.Deployment.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Webpages.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Webpages.Razor.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.Web.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.AI.WindowsServer.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.ApplicationInsights.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Razor.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Webpages.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Webpages.Deployment.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Webpages.Razor.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Helpers.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\bin\System.Web.Mvc.xml
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\obj\Debug\MVC Test.dll
+c:\users\fam_e\onedrive\documenten\visual studio 2015\Projects\MVC Test\MVC Test\obj\Debug\MVC Test.pdb
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\ApplicationInsights.config
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\csc.exe
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\vbc.exe
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\MVC Test.dll.config
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\MVC Test.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\MVC Test.pdb
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.Web.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Helpers.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Mvc.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Razor.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Webpages.Deployment.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Webpages.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Webpages.Razor.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.Web.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Razor.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Webpages.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Webpages.Deployment.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Webpages.Razor.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Helpers.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\bin\System.Web.Mvc.xml
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\obj\Debug\MVC Test.csprojResolveAssemblyReference.cache
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\obj\Debug\MVC Test.dll
+C:\Users\fam_e\Source\Repos\MVC-DierenAsiel\MVC Test\obj\Debug\MVC Test.pdb
